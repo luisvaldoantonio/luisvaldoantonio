@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Luisvaldo Antonio 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisvaldoantonio?igsh=Y2Y5eHI6ZDVzN3pp)
+<a href = "mailto:luisvaldoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Tecnologias que eu uso no meu dia
 
